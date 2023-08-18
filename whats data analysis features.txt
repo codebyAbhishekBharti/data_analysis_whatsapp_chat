@@ -1,0 +1,16 @@
+Features of the programm:-
+1 Able to show chat in readable format
+2 will give the name of person who has have the most of conversation with how many conversations
+3 total media file shared
+4 total no of missed video call
+5 total no of chats
+6 total no of deleted chats
+7 total no of poeple left of joined the group and left
+8 who has send the most of the media file in a group or in the personal chat
+9 graph of most media sent
+10 graph of day in which most of the message were sent
+11 To make the graph of the most active
+12 the sharp time when most are active
+13 hourly time when most are active
+14 making word cloud for most commanly used word
+15 able to find when the person is online
